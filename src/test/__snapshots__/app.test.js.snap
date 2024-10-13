@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TEST APP check button and text 1`] = `
+<input
+  placeholder="input value......"
+  type="text"
+/>
+`;
